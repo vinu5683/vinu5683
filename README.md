@@ -6,16 +6,13 @@ Have a good hands on experience in Design Architectures and Spring-Boot for Back
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ### 🌱 What do I do?
-- ✔️ Though I hold a post graduate degree in Master of Computer Applications, I aspire to work as a programmer.
-
 - ✔️ I'm an avid learner and enthusiastic about the work I do, looking for interesting career opportunities in Full-Stack Android Development. 
-
 
 ### ⚡ One line that describes me best? 
 I'm an ambitious self-motivated guy who enjoyes coding and humour.
 
 ### 📫 How can you reach me?
-Connect with me on [gmail](vinod568312@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vinod-kumar-c-29b30b150/).
+Connect with me on [gmail](mailTo:vinod568312@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vinod-kumar-c-29b30b150/).
 
 ### 💬 Want to know more about me?
 You can find my work on my [Portfolio](https://vinu5683.github.io/vinodkumar/).
