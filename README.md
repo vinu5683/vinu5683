@@ -25,9 +25,7 @@ You can find my work on my [Portfolio](https://vinu5683.github.io/vinodkumar/).
 ---
 🧰 Toolbox
  
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>            <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>   
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="MongoDB Logo" width="50" height="50"/>  
-<img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring-Boot Logo" width="50" height="50"/>    
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>            <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>   <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="MongoDB Logo" width="50" height="50"/>  <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring-Boot Logo" width="50" height="150"/>    
 
 ---
 
